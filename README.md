@@ -1,5 +1,5 @@
 # Classification of vibration signals of faulty bearings based on CNN
-![highlights](IRNDA-main/domain-shift.png)
+![highlights](Rolling-Berings.jpg)
 ## Introduction
 This dataset is commonly used as a benchmark for bearing fault classification algorithms, which contains vibration signals recorded under various fault modes and operating conditions. The dataset classifies faults into three categories: inner race, outer race, and rolling element, with each category containing four distinct severity levels of $0.007$, $0.014$, $0.021$, and $0.028$ inches.
 ## Method
